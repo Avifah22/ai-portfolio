@@ -24,11 +24,19 @@ Selamat datang di repositori portofolio saya! Repositori ini berisi kumpulan pro
   * Analisis pola fitur prediktif untuk mendukung *data-driven decision making*.
   * Menyimpan model menggunakan `joblib` (`insurance_model.pkl`).
 * **📁 Folder Proyek**: `02-insurance-cross-sell-xgboost/`
-
+  
+### 3. 🛒 POS (Point of Sale) & Product Association Analysis (Apriori Algorithm)
+* **Deskripsi**: Sistem aplikasi Point of Sale (POS) berbasis web yang dilengkapi fitur analisis pola belanja konsumen menggunakan Algoritma Apriori (implementasi logika manual berbasis PHP & JavaScript) untuk rekomendasi *bundling* produk.
+* **Tech Stack**: PHP, JavaScript, HTML/CSS, MySQL.
+* **Fitur Utama**:
+  * Pencatatan transaksi penjualan toko secara *real-time* (POS System).
+  * Implementasi perhitungan manual Algoritma Apriori (*Support*, *Confidence*, dan *Association Rules*) untuk mencari produk yang sering dibeli bersamaan.
+  * Dashboard laporan rekomendasi produk untuk strategi tata letak barang (*layout* toko) dan *cross-selling*.
+* **📁 Folder Proyek**: `03-pos-apriori-php/`
 ---
 
 ## 🛠️ Skills & Tools
-* **Languages**: Python
+* **Languages**: Python, PHP, JavaScript, HTML/CSS, MySQL
 * **Machine Learning**: Scikit-Learn, XGBoost, K-Means Clustering
 * **Deployment & MLOps**: FastAPI, Uvicorn, RESTful APIs
 * **Data Handling & Visualization**: Pandas, NumPy, Matplotlib
