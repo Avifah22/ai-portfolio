@@ -33,6 +33,7 @@ Selamat datang di repositori portofolio saya! Repositori ini berisi kumpulan pro
   * Implementasi perhitungan manual Algoritma Apriori (*Support*, *Confidence*, dan *Association Rules*) untuk mencari produk yang sering dibeli bersamaan.
   * Dashboard laporan rekomendasi produk untuk strategi tata letak barang (*layout* toko) dan *cross-selling*.
 * **📁 Folder Proyek**: `03-pos-apriori-php/`
+* **Catatan**: *Arsip proyek ini di-upload pasca-pemulihan sistem (Factory Reset).*
 ---
 
 ## 🛠️ Skills & Tools
