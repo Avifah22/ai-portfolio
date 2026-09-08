@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk membangun model *Supervised Machine Learning* menggun
 
 <img width="445" height="229" alt="15" src="https://github.com/user-attachments/assets/28f3ccb2-f2bb-4012-81ae-ca3336c5bca2" />
 > *Gambar proses training (pelatihan) model XGBoost untuk menangani data yang tidak seimbang (imbalanced data).*
-> 
+> *Gambar di atas adalah bukti bahwa endpoint FastAPI berhasil diuji dan memberikan respons JSON dengan sukses.*
 <img width="287" height="169" alt="16" src="https://github.com/user-attachments/assets/2a1e9479-0513-4c5c-a6d7-59e528e9b747" />
 > *Model XGBoost berhasil dilatih dengan menangani data tidak seimbang menggunakan scale_pos_weight. Model ini mencatatkan ROC-AUC Score sebesar 0.8579, yang menunjukkan performa prediktif yang kuat, serta memiliki nilai Recall 0.92 pada kelas minoritas, menandakan model sangat efektif dalam menangkap potensi nasabah yang ingin melakukan cross-sell.*
 
