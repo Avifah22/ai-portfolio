@@ -14,8 +14,8 @@ Proyek ini bertujuan untuk melakukan segmentasi (clustering) data penjualan coke
 │   ├── Chocolate Sales (2).csv # Dataset penjualan cokelat
 │   └── README.md               # Dokumentasi proyek
 
-
-## 🛠️ Cara Menjalankan API (Lokal)
+**
+## 🛠️ Cara Menjalankan API (Lokal)**
 
 Pastikan library yang dibutuhkan sudah terinstal:
 pip install fastapi uvicorn scikit-learn pandas joblib
@@ -26,7 +26,7 @@ uvicorn main:app --reload
 Buka dokumentasi interaktif di browser:
 http://127.0.0.1:8000/docs
 
-## 📸 Bukti Eksekusi & Uji Coba API (menggunakan Google Collaboratory)
+**## 📸 Bukti Eksekusi & Uji Coba API (menggunakan Google Collaboratory)**
 <img width="404" height="272" alt="11" src="https://github.com/user-attachments/assets/71a143ae-715a-4eec-9ed1-9db58517e8d6" />
 > *Gambar Dataset.Disclaimer: Dataset ini bersifat publik dan diambil dari https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales
 
