@@ -15,6 +15,13 @@ Proyek ini bertujuan untuk membangun model *Supervised Machine Learning* menggun
 3. <img width="287" height="169" alt="16" src="https://github.com/user-attachments/assets/2a1e9479-0513-4c5c-a6d7-59e528e9b747" />
 > *Model XGBoost berhasil dilatih dengan menangani data tidak seimbang menggunakan scale_pos_weight. Model ini mencatatkan ROC-AUC Score sebesar 0.8579, yang menunjukkan performa prediktif yang kuat, serta memiliki nilai Recall 0.92 pada kelas minoritas, menandakan model sangat efektif dalam menangkap potensi nasabah yang ingin melakukan cross-sell.*
 
+## 🛠️ Cara Menjalankan Proyek (Lokal)
+Install library yang dibutuhkan:
+pip install xgboost scikit-learn pandas numpy matplotlib
+
+Buka file Jupyter Notebook (.ipynb) di dalam lingkungan Colab atau Jupyter Lab untuk melihat tahapan Data Preprocessing, Model Training, dan Evaluation.
+
+Dibuat sebagai bagian dari Portofolio AI & Data Science Engineer.
 ## 📂 Struktur Folder
 ```text
 ├── 02-insurance-cross-sell-xgboost/
