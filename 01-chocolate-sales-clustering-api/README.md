@@ -24,6 +24,7 @@ http://127.0.0.1:8000/docs
 > *Gambar grafik Elbow Method untuk menentukan jumlah klaster (k) yang paling optimal*
 
 <img width="283" height="365" alt="13" src="https://github.com/user-attachments/assets/2ed8dd34-7292-4ff8-8a4f-ef584bc9bc59" />
+
 > *Gambar di atas menunjukkan pengujian POST request secara lokal ke endpoint `/predict` menggunakan FastAPI dan Uvicorn. API berhasil menerima input data penjualan (`amount` dan `boxes_shipped`) dan mengembalikan hasil prediksi klaster secara real-time.*
 
 ## 📂 Struktur Folder
