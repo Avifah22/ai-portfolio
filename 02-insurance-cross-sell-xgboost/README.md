@@ -9,11 +9,11 @@ Proyek ini bertujuan untuk membangun model *Supervised Machine Learning* menggun
   
 ## 📸 Bukti Eksekusi & Uji Coba API (menggunakan Google Collaboratory)
 <img width="515" height="185" alt="14" src="https://github.com/user-attachments/assets/ae68e7bf-b485-4c01-9578-e4e4625ccbd8" />
->*Gambar Dataset. **Disclaimer**: Dataset ini bersifat publik dan diambil dari [Kaggle Health Insurance Cross Sell Prediction](https://www.kaggle.com).*
+*Gambar Dataset. **Disclaimer**: Dataset ini bersifat publik dan diambil dari [Kaggle Health Insurance Cross Sell Prediction](https://www.kaggle.com).*
 <img width="445" height="229" alt="15" src="https://github.com/user-attachments/assets/28f3ccb2-f2bb-4012-81ae-ca3336c5bca2" />
->*Gambar proses training (pelatihan) model XGBoost untuk menangani data yang tidak seimbang (imbalanced data)*
+*Gambar proses training (pelatihan) model XGBoost untuk menangani data yang tidak seimbang (imbalanced data)*
 <img width="287" height="169" alt="16" src="https://github.com/user-attachments/assets/2a1e9479-0513-4c5c-a6d7-59e528e9b747" />
->*Model XGBoost berhasil dilatih dengan menangani data tidak seimbang menggunakan scale_pos_weight. Model ini mencatatkan ROC-AUC Score sebesar 0.8579, yang menunjukkan performa prediktif yang kuat, serta memiliki nilai Recall 0.92 pada kelas minoritas, menandakan model sangat efektif dalam menangkap potensi nasabah yang ingin melakukan cross-sell*
+*Model XGBoost berhasil dilatih dengan menangani data tidak seimbang menggunakan scale_pos_weight. Model ini mencatatkan ROC-AUC Score sebesar 0.8579, yang menunjukkan performa prediktif yang kuat, serta memiliki nilai Recall 0.92 pada kelas minoritas, menandakan model sangat efektif dalam menangkap potensi nasabah yang ingin melakukan cross-sell*
 
 ## 📂 Struktur Folder
 ```text
